@@ -1,16 +1,143 @@
-### Hi there 👋
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
 
-<!--
-**RizwanAhmed3000/RizwanAhmed3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/borderseparator.gif" width="100%"/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=C5FE00E6&random=false&width=940&lines=Hey%2C+I'm+Rizwan+and+Welcome+to+my+Coding+world!" alt="Hey, I'm Rizwan and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+
+<h2></h2>
+
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+
+<h2 align="center"> Learned from SMIT<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
+
+-   👨‍💻 I'm Rizwan Ahmed👋, an Undergraduate University student, I'm currently pursuing a Software Engineering Degree from University of Karachi. <br><br><br>
+
+-   🌳 I’m currently working as a MERN Stack Developer <br><br><br>
+
+-   🌊 2024 Goals: Learn DevOps and Contribute to Open Source Projects. <br><br><br>
+
+-   ☕ Interest: Coding, Games, Coffee, and Cars. <br><br><br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2> <img src="./assets/borderseparator.gif"/> </h2>
+  <br>
+</div></br>
+
+<h2></h2>
+
+<div align="center">
+  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+</div>
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAhmed3000&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <br>
+
+  <br>
+  
+  <h2></h2>
+  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,express,vite,html,css,sass,tailwind,js,react,redux,java,firebase,mongodb,postman,netlify,vercel,figma,materialui" alt="skills logos" />
+  <br> 
+  <h2></h2>
+  <h3> <strong> Actively Learning </strong></h3>
+  <img src="https://skillicons.dev/icons?i=docker,aws" alt="skills actively learning logos">
+  <br>
+  <h2></h2>
+  <h3> <strong> Planning to Learn </strong></h3>
+  <img src="https://skillicons.dev/icons?i=nextjs,postgres,kubernetes,mysql,threejs,ts,jenkins,androidstudio" alt="skills planning to learn logos">
+</div>
+
+<h2></h2>
+
+<!-- <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<h2 align="center">💻 Workspace<img src="./assets/borderseparator.gif"/></h2>
+
+|                                                               👩‍💻 Device                                                               |                                                                                                                                                                                                                                                                                                                ⚙️ Specification                                                                                                                                                                                                                                                                                                                |                                                                                                                                         📃 Purpose                                                                                                                                         |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://img.shields.io/badge/acer%20Aspire%207-83B81A?style=for-the-badge&logo=acer&logoColor=white" alt="Acer Aspire 7"/> | <img src="https://img.shields.io/badge/Windows%2011%20Home-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/AMD%20Ryzen%205%205500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/512GB%20SSD-0078D6?style=for-the-badge" alt="512GB SSD"/> <img src="https://img.shields.io/badge/16GB%20DDR4-0078D6?style=for-the-badge&logoColor=white" alt="16GB RAM"> | <img src="https://img.shields.io/badge/🧑‍💻%20Work-007DB8?style=for-the-badge" alt="Work"> <img src="https://img.shields.io/badge/🧑‍💻%20Programming-202020?style=for-the-badge" alt="Programming"> <img src="https://img.shields.io/badge/🧑‍🎓%20School-00897B?style=for-the-badge" alt="School"> |
+
+<h2></h2>-->
+
+<div align="center">
+  <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
+</div> 
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizwanAhmed3000&custom_title=RizwanAhmed%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="My Github Activity Graph" width="100%">
+</div>
+
+</br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <a href="https://github.com/RizwanAhmed3000/fullstack-Social-media" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAhmed3000&theme=radical&repo=fullstack-Social-media" width="49%" alt="fullstack-Social-media"/>
+  </a>
+  <a href="https://github.com/RizwanAhmed3000/YouTube-Clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAhmed3000&theme=radical&repo=YouTube-Clone" width="49%" alt="YouTube-Clone"/>
+  </a>
+  <a href="https://github.com/RizwanAhmed3000/Hotel-Reservation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAhmed3000&theme=radical&repo=Hotel-Reservation" width="49%" alt="Hotel-Reservation"/>
+  </a>
+  <a href="https://github.com/RizwanAhmed3000/Admin-Panel" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAhmed3000&theme=radical&repo=Admin-Panel" width="49%" alt="Admin-Panel"/>
+  </a>
+  <a href="https://github.com/RizwanAhmed3000/weather-app-reactJS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAhmed3000&theme=radical&repo=weather-app-reactJS" width="49%" alt="weather-app-reactJS"/>
+  </a>
+</div>
+
+</br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
+  <a href="https://www.facebook.com/rizwan.ahmed.75873708/" target="_blank">
+    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
+  </a>
+  &nbsp
+  <a href="https://www.instagram.com/rizwanahmed.10/?next=%2F" target="_blank">
+    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
+  </a>
+  &nbsp
+  <a href="https://www.linkedin.com/in/rizzwan-ahmed-1ba968247/" target="_blank">
+    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
+  </a>
+</div>
+
+<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
+<img src="./assets/animated-wave.svg" />
