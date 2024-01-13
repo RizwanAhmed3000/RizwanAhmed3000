@@ -13,7 +13,7 @@
 
 <h2></h2>
 
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="450px" alt="pixel city image">
 
 <h2 align="center"> Learned from SMIT<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
 
