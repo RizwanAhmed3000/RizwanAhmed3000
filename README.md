@@ -27,13 +27,7 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
-<div align="center">
-  <h2> <img src="./assets/borderseparator.gif"/> </h2>
-  <br>
-</div></br>
+</br>
 
 <h2></h2>
 
