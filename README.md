@@ -113,6 +113,9 @@
   <a href="https://github.com/RizwanAhmed3000/Admin-Panel" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAhmed3000&theme=radical&repo=Admin-Panel" width="49%" alt="Admin-Panel"/>
   </a>
+  <a href="https://github.com/RizwanAhmed3000/E-commerce" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAhmed3000&theme=radical&repo=E-commerce" width="49%" alt="Admin-Panel"/>
+  </a>
   <a href="https://github.com/RizwanAhmed3000/weather-app-reactJS" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAhmed3000&theme=radical&repo=weather-app-reactJS" width="49%" alt="weather-app-reactJS"/>
   </a>
