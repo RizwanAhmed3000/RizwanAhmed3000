@@ -62,7 +62,7 @@
 
 <h2></h2>
 
-<!-- <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <h2 align="center">💻 Workspace<img src="./assets/borderseparator.gif"/></h2>
