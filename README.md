@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=C5FE00E6&random=false&width=940&lines=Hey%2C+I'm+Rizwan+and+Welcome+to+my+Coding+world!" alt="Hey, I'm Rizwan and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&size=32&pause=1000&color=C5FE00E6&random=false&width=940&center=true&lines=Hey%2C+I'm+Rizwan+and+Welcome+to+my+Coding+world!;I'm+am+a+MERN+Stack+Developer+from+Pakistan!" alt="Hey, I'm Rizwan and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
@@ -15,9 +15,9 @@
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="450px" alt="pixel city image">
 
-<h2 align="center"> Learned from SMIT<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
+<h2 align="center"><img src="./assets/animated-flame-01.gif" width="14px"/> Learned from SMIT and passionate about coding! <img src="./assets/animated-flame-01.gif" width="14px"/>  </h2><br>
 
--   👨‍💻 I'm Rizwan Ahmed👋, an Undergraduate University student, I'm currently pursuing a Software Engineering Degree from University of Karachi. <br><br><br>
+-   👨‍💻 I'm Rizwan Ahmed👋, an Undergraduate University student, I'm currently pursuing a Software Engineering Degree from the University of Karachi. <br><br><br>
 
 -   🌳 I’m currently working as a MERN Stack Developer <br><br><br>
 
