@@ -42,7 +42,7 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAhmed3000&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAhmed3000&theme=radical&langs_count=10&card_width=540&layout=donut" alt="Most used languages">
   <br>
 
   <br>
