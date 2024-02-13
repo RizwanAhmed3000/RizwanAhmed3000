@@ -137,6 +137,4 @@
     <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
 </div>
-
-<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
 <img src="./assets/animated-wave.svg" />
