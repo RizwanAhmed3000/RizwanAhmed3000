@@ -127,6 +127,9 @@
   <img src="https://skillicons.dev/icons?i=nextjs,postgres,kubernetes,mysql,threejs,ts,jenkins,androidstudio" alt="skills planning to learn logos">
 </div>
 
+
+
+
 <h2></h2>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
