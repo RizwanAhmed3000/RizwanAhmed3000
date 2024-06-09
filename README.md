@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&size=32&pause=1000&color=C5FE00E6&random=false&width=940&center=true&lines=Hey%2C+I'm+Rizwan+and+Welcome+to+my+Coding+world!;I'm+a+MERN+Stack+Developer+from+Pakistan!" alt="Hey, I'm Rizwan and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&size=32&pause=1000&color=C5FE00E6&random=false&width=940&center=true&lines=Hey%2C+I'm+Rizwan+and+Welcome+to+my+Coding+world!;I'm+a+MERN+Stack+Developer+from+Pakistan!;I'm+a+React+Native+Developer+from+Pakistan!" alt="Hey, I'm Rizwan and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
