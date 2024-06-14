@@ -120,11 +120,11 @@
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=docker,aws" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=docker,nextjs" alt="skills actively learning logos">
   <br>
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,postgres,kubernetes,mysql,threejs,ts,jenkins,androidstudio" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=aws,postgres,kubernetes,mysql,threejs,ts,jenkins,androidstudio" alt="skills planning to learn logos">
 </div>
 
 
