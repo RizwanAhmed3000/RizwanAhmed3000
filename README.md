@@ -1,4 +1,4 @@
-9<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
