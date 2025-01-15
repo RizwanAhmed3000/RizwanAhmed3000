@@ -17,11 +17,11 @@
 
 <h2 align="center"><img src="./assets/animated-flame-01.gif" width="14px"/> Learned from SMIT and passionate about coding! <img src="./assets/animated-flame-01.gif" width="14px"/>  </h2><br>
 
--   👨‍💻 I'm Rizwan Ahmed👋, an Undergraduate University student, I'm currently pursuing a Software Engineering Degree from the University of Karachi. <br><br><br>
+-   👨‍💻 I'm Rizwan Ahmed👋, a Graduate Software Engineer. <br><br><br>
 
--   🌳 I’m currently working as a MERN Stack Developer <br><br><br>
+-   🌳 I’m currently working as a MERN Stack Developer and React-native Developer <br><br><br>
 
--   🌊 2024 Goals: Learn DevOps and Contribute to Open Source Projects. <br><br><br>
+-   🌊 2025 Goals: Learn DevOps and Contribute to Open Source Projects. <br><br><br>
 
 -   ☕ Interest: Coding, Games, Coffee, and Cars. <br><br><br>
 
